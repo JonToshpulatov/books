@@ -1,0 +1,105 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
+class Mavzu6 extends StatelessWidget{
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+        title: "route",
+        home: Scaffold(
+          appBar: AppBar(title: Center(child: Text('Comparative stylistics'),),),
+          body:
+          SingleChildScrollView(child: Text("""Questions to be discussed:
+Comparative Stylistics
+Stylistics of individual style
+Cognitive stylistics
+Key words: Comparative Stylistics, Stylistics of individual style, Cognitive stylistics, cognitive principles, imagery, emotiveness, implicitness, modality.
+Handouts1. Focused listing. 
+Students give key concepts concerning the given topic.
+comparative analysis of vocabulary systems and their stylistic differentiation;
+comparative analysis of functional styles;
+comparative analysis of phraseology;
+comparative analysis of stylistic devices;
+comparative analysis of the literary texts.
+Comparative Stylistics is a relatively new branch of linguistics. Though general problems of Stylistics in different languages have been rather well studied the comparative analysis of stylistic phenomena has not received much attention in the linguistic literature, and consequently, many issues have remained unresolved. There are not so many researches devoted to this subject but some of them made a significant contribution to the treatment of Comparative Stylistics. As for comparative analysis of the English and Turkic languages in the field of Stylistics, this area of the study is only at the beginning of its development.
+The aims of Comparative Stylistics can be formulated as follows:
+to reveal isomorphic and allomorphic features of stylistic systems of the compared languages;
+to define national specificity of stylistically marked forms;
+to reveal national world picture.
+     It should be noted that the first and the second aims are achieved through analysis of separate language units of different language levels (phonetic, morphological, lexical, syntactical). 
+   But the problem of revealing world picture can be solved only on the level of the whole text. Our observations assume that isomorphic (common, universal) features of the compared stylistic phenomena are connected with general notions of stylistics such as functional styles, stylistic devices, stylistic categories of imagery, evaluation and emotiveness. If similarity of stylistic means shows the common character of human thinking and perception of general values and concepts, allomorphic (specific) features define specific stylistic peculiarities of every language. 
+     Thus, metaphor exits in all the languages, but in every language there are distinctive features of this stylistic device concerning semantic and structural types, the character of imagery, negative and positive evaluations.
+      It is important to note that stylistically marked words are characterized by a high national-cultural potential. For example culture specific potential of metaphor is accounted for by the fact that this phenomenon is one of the most important features that reflect cognitive vision and epitomizes cultural context. If we compare metaphorical meanings of the word "wolf in the English and Kyrgyz languages, we'll see certain differences in the perception o f their meanings. In English the word has strong negative connotations (cruel, greedy)while in Kyrgyz alongside with negative characteristics there are some positive connotations influenced by the well-known novels by Ch. Aitmatov presenting this animal as  a kind, devoted and pitiful creature.
+      There are a lot of culture specific forms among phraseological units, derivative and compound words, words differentiated according to register and genre belongings: neologisms, archaisms, slang, jargonisms, terms and the like. For example, American English which is very much influenced by "consumer culture" is abundant in new terms, innovations, derivatives, brand names, commercial expressions relating to various aspects of consumer industry and advertising (“Pepsi generation”, “Marlboro man”, “Teflon politician”, “Palmolive complexion”). Nationally specific features of stylistically marked units are determined by both linguistic and extra-linguistic factors. 
+  To linguistic factors we refer: a) semantic and stylistic transformations; b) pragmatic orientation; c) expressive word formation; d) register and genre differentiation; e) phraseology. 
+As for extra-linguistic factors, they are determined by historical, social, political and economic influences. Besides, such properties as literary traditions and aesthetic values, as the analysis proves, should also be considered culture relevant factors.
+    The main method used in comparative stylistics is a comparative-typological analysis.    Comparison can be done on the basis of: a) common semantic features; b) common denotative meanings; c) common concepts.
+     The notion of ‘concept’ originated in Cognitive Linguistics and lingua-cultural studies has appeared to be very fruitful in Comparative Stylistics, as it presents a solid basis for comparative analysis. “Concept” is one of the most disputable notions at present. Summarizing various definitions of this notion we can work out our own approach to the problem.
+Concept is a culturally relevant property, which is verbalized in the language and presented as a network of meanings expressed by lexical, phraseological units, proverbs and sayings, epigrams, stylistic devices, speech formulas, etc.
+      From this perspective concepts can be classified into: a) universal existing in every language, and b) nationally specific having no equivalents in other languages (Privacy, Gentleman in English,  Russian,  Gap, Mahallain Uzbek). It is important to note that even universal concepts may have some national colouring, which is revealed only through a detailed comparative analysis. To illustrate this assumption the comparative analysis of such universal concepts as “ Youth/`ёшлик” in the English and Uzbek languages has been done. The conceptual analysis in the both languages makes it possible to reveal both negative inexperienced, stupid and positive characteristics  (promising, strong, vigorous).
+    But in the English language this concept is more associated with the notions of “self-confidence”, "independence ”, "familiarity ” while in the Uzbek language with the notions of “timidness ” "obedience. Different connotations of these words are accounted for extra-linguistic factors: way of life, upbringing, culture.
+     It needs to be stressed that only cross disciplinary and integrated approach to stylistic phenomena helps reveal many essential characteristics of their stylistic potential, penetrate into the deep semantic and cognitive structures of the compared language units and define their national specificity.
+       Stylistics of individual style
+   Individual Style (idiostyle) is regarded as a complex structural unity of the means and forms of verbal expression peculiar to certain authors, and reflecting their world vision and subjective evaluation of the described phenomena. In this field of research good results have been achieved both in practical and theoretical aspects. Suffice it to mention the works by V.V. Vinogradov, G.O. Vinokur, I.R. Galperin, I.V. Arnold, V.A. Kukharenko and others. These works give rise to theoretical discussions of the following problems:
+individual specificity of fictional texts;
+the author’s image and viewpoint;
+types of the narrator;
+a polyphonic structure o f the literary text;
+correlation of individual style with general language norms;
+individual style as a specific modus of language reality;
+individual peculiarities of the language usage in the text.
+    The key notion of the theory of individual style is the notion o f the author’s image, which was introduced by V.V. Vinogradov. The author’s image is a focus of the whole text, its content and compositional structure. As V.A. Kukharenko stated, the author’s image is an organizing centre o f the whole literary work, it combines its separate parts into a united whole characterized by a single world outlook. At present a new impetus has been given to the problem of “individual paradigm”, and a new term “cognitive style” has emerged. 
+      This term is defined as a style of conveying and presenting information, its peculiar arrangement in the text/discourse connected with a specific choice o f cognitive operations or their preferable usage in the process of text production and interpretation. Cognitive style is regarded as a style o f the author’s individual representation associated with his personality, the peculiarities of an individual creative process o f thinking and subjective modality.
+      Much attention in Text Stylistics is attached to the language units functioning in the text. Emphasis is made on the usage of stylistically marked units, particularly stylistic devices. 
+Traditionally stylistic devices have been studied from the point of view o f their structural and semantic organization and stylistic functions. In text stylistics these units are regarded as text components playing an important role in transmitting conceptual information o f the text and representing the conceptual world picture. The conceptual value of a stylistic unit will be discussed later.
+      Here it is necessary to stress that stylistic means regarded as means of text conceptualization serve to reveal the author’s conceptual world picture.
+    So, we have discussed the main trends of stylistics: Text Stylistics, Functional Stylistics, Stylistics of Individual Style, Comparative Stylistics. As for Stylistics of the Literary Text, it being the focus of attention in this manual will be put to the closest examination in the subsequent sections.
+        Cognitive stylistics
+      Cognitive linguistics as is known is concerned with the study o f the relationships between linguistics choices and mental processes, human experience and its results — knowledge. 
+Cognitive linguistics regards language as a cognitive mechanism o f representing, storing and transferring knowledge layers. In the domain o f cognitive linguistics there have been distinguished different trends and approaches.
+      It needs to be stressed from the beginning that the cognitive approach penetrates into all aspects of linguistic theory: cognitive semantics, cognitive grammar, cognitive phonetics, cognitive stylistics and cognitive pragmatics. Most notable are the links between cognitive linguistics and stylistics. It is accounted for by the fact that the main theoretical assumptions o f these sciences have much in common:
+language is regarded as a means o f communication and cognition;
+language is characterized by creative and imaginative capabilities;
+both cognitive linguistics and stylistics focus on the processes of conceptualization, categorization and interpretation of the information verbalized in language;
+both disciplines characterized by the anthropocentric approach, are crucially concerned with the “human factor” in language.
+   Cognitive stylistics is a relatively new and rapidly developing field of language study at the interface between linguistics, literary studies and cognitive science. E. Semino defined it as the way in which linguistic analysis is systematically based on theories that relate linguistic choices to cognitive structures and processes. P. Simpson asserts that cognitive stylistics makes the main emphasis on mental « representation rather than on textual representation and is aimed to shift the focus away from models of text and composition towards models that make explicit the links between the human mind and the process of reading.
+Cognitive stylistics embraces a wide range of questions, including:
+the problems of cognitive style;
+the problem of conceptualization of stylistic means;
+cognitive principles o f text production and text perception;
+cognitive basis of stylistic devices;
+the theory of cognitive metaphor;
+implicative aspects of textual communication;
+“figure and ground” theory.
+     Let us elaborate briefly on some of these problems. Cognitive style is a style of conveying and presenting information, the peculiarities of its arrangement in the text/discourse connected with a specific choice of cognitive operations on their preferable usage in the process of text production and interpretation. Cognitive style is regarded as a style of the author’s individual representation associated with his personality, individual world picture, creative process o f thinking and subjective modality.
+     One of the main notions of Cognitive linguistics as well as Cognitive stylistics is conceptualization defined as “a mental process of concept formation in the individual’s mind, one of the main processes of the human cognitive activity connected with composing knowledge structures on the basis of text data and background information, mechanisms of inferences, making conclusions, decoding implied information”. 
+      So, the process of conceptualization is based on the mechanisms of inference. The notion of inference is another key notion of both cognitive linguistics and stylistics. It means interpreting implications drawn from the cognitive processing and conceptualization of the text. Inference is one of the most important cognitive operations based on the ability of human mind to disclose implicit information, to interpret knowledge structures, extract additional conceptual senses and make conclusions about the whole conceptual system of the text. In this connection the problem of “concept” comes to the fore.
+      Concept is defined as a multifold mental structure consisting of notional, image-bearing, and evaluative constituents. In cognitive investigations attention is focused on the problems of the concept structure, the ways of its verbalization on different levels of the language system. 
+The study of a concept in the literary text deals with the problems of a) the role of stylistic means in interpreting a certain concept; b) the analysis of conceptually relevant features representing a concept; c) the cognitive mechanisms of stylistic categories such as emotiveness, expressiveness, imagery, implicitness, intertextuality, implicitness, etc.; d) activation of knowledge structures that foreground a certain semantic constituent of the concept.
+       The problems of perception, understanding, interpretation and knowledge structures are in the centre of attention in Cognitive Stylistics. Perception is understood as a cognitive activity dealing with the cognitive processing of textual information, its conceptualization and categorization. The process of perception is a complicated mechanism based on the interrelation of many linguistic and extra-linguistic factors.
+        The linguistic basis of perception constitutes such semantic and structural properties of the text which make its understanding easier. In this respect, the search for special “signals”, “indicators”, “semantic blocks”, “key-signs” which are usually expressed by stylistically-marked units and key-words is very significant for constructing the general conceptual sense o f the literary text as a whole. One o f such “signals” is a key-word. In the framework of the literary text key words fulfill the function o f text formation and 
+various functions o f stylistic accentuation. 
+      Key words are the words repeated throughout the text and characterized by a functional variety. The peculiar features of the key-words are their relevance to the conceptual information and implicit associative links with the components of the whole text. Therefore it is of prime importance to conceptualize key words taking into account their semantic and structural properties, distribution in the text and functions. 
+       One of the most important notions in Cognitive Linguistics as well as in Cognitive Stylistics is the notion of information. Information is understood as knowledge represented and transferred by language forms in the process of communication. Of great importance is differentiation of various types of information. I.R. Galperin distinguishes the following types o f information: factual, conceptual and subtextual. Besides, information can be subdivided into cognitive and contextual. Cognitive information consists of knowledge, convictions, opinions, views, positions. Contextual information presents speech acts, situations, communication. 
+      Particularly important for the cognitive approach are the types of information which are called old (given, known) and new (unknown). The character of information, its distribution play a significant role in text production and text perception. It should be noted that from the position of cognitive stylistics new information is not necessarily connected with new facts. More often information is conditioned by creative potential of language, a twofold use of the language medium, various kinds of occasional transformations of language means and deviations from the norm.
+      There are several cognitive principles of distributing information in the text: the principles of iconicity, that of distributing old and new information, linguistic economy and redundancy, relevance and foregrounding. For cognitive stylistics the notion of foregrounding seems to be of an exceptional importance. Foregrounding, regarded as a cognitive procedure of selecting the most essential, relevant information, stands out as a stimulus or “key” in the process of text interpretation.
+      Attracting attention to certain parts of the text and activating certain frames, foregrounding makes the search for information much easier. There are several ways to shape foregrounding: convergence, i.e. an accumulation of many stylistic devices and expressive means of the language within a short fragment of the text; coupling created by all types of repetition, parallel structures, synonyms, antonyms, words belonging to one and the same semantic field; “defeated expectancy” appearing due to a low predictability of the elements encoded in a verbal chain; “strong positions” o f the text, i.e. the beginning and the end of the text.
+      The beginning and the end of a literary work do not only attract the reader’s attention, but also convey to the reader the most relevant, conceptually important information. Thus, the story 
+“Reunion” by J. Cheever has the similar beginning and end. The beginning o f the story is  ‘''‘The last time I saw my father was in Grand Station”, the end is —  “that was the last time I saw my father ”. The word which is foregrounded here is the word “last”. 
+       At the beginning o f the story it has no implications, it only indicates the time when the boy saw his father whom he hadn’t seen for three years because his parents were divorced. When he first saw his father he was terribly happy and wanted everyone to see them together. From the factual information of the text we know that the boy got awfully disappointed in his father who appeared to be an ill-bread, rude, ungrateful, offhand, ignoble, impolite person.
+    Because of this the word “last” used at the end of the story acquires new senses and implications. It means not only the fact that the boy wouldn’t see his father again but his desire not to see him again.   
+     Consequently, the word “last” implies the whole spectrum o f the boy’s feelings and emotions: disappointment, shame, contempt, lost o f illusions, etc.
+      A cognitive turn in the study o f language and style has given rise to a new theoretical approach to the problem of metaphor. The most important remark to be made is that metaphor is regarded not only as a stylistic device, but also as a cognitive mechanism which incorporates cognitive processes, empirical experience and language competence. Conceptual (cognitive) metaphor is attributed to the formation o f the personal world model and emotive system. Cognitive metaphor in the Lakoff tradition is one of the fundamental processes of analogical thinking.
+     So, we have outlined some notions and fields of Cognitive Stylistics. However, they do not cover all possible areas of this science. Much research remains to be done. For further investigation the following problems can be suggested:
+the cognitive approach to functional styles and genre differentiation;
+the cognitive grounds of stylistic devices and stylistic categories: imagery, emotiveness, implicitness, modality;
+the cognitive structure of a belles-lettres text;
+the conceptual value of compositional speech forms: narration, description, reasoning, dialogue;
+the role of language units in transmitting conceptual information and representing the conceptual world picture;
+the cognitive content of cultural concepts, their emotional, evaluative components and associative links;
+the cognitive analysis of gender stereotypes.
+"""),),
+
+        )
+    );
+  }}
